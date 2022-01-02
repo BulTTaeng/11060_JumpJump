@@ -14,7 +14,7 @@ BFS and dynamic programming
 
 ## What was the key point and the hard part?
 
-Similar to the problem that I solve (맹세)
+Similar to the problem that I solved (맹세)
 
 Make visit array and save if it is possible to reach that location.
 
